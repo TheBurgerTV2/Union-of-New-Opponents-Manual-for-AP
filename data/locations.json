@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Listen to your favorite song :)",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Goal MacGuffin:4|"
+  },
+  {
+    "name": "Dance of the Wildcard ~ Theme of Tarjeta",
+    "category": [
+      "Tarjeta"
+    ],
+    "requires": "|Tarjeta| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Bride of the Dealer ~ Theme of Noyu",
+    "category": [
+      "Noyu"
+    ],
+    "requires": "|Noyu| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Set Your Body Free",
+    "category": [
+      "Bugsnax Sarah"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Black Romance",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Rise For Our Generation",
+    "category": [
+      "Isla"
+    ],
+    "requires": "|Isla| AND |Pre-Bracket|"
+  },
+  {
+    "name": "But The Wizard Did Not Forget",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Stay the Night ★",
+    "category": [
+      "Showa Idol"
+    ],
+    "requires": "|Showa Idol| AND |Pre-Bracket|"
+  },
+  {
+    "name": "End of the Shit Rainbow",
+    "category": [
+      "AVGN Adventures"
+    ],
+    "requires": "|AVGN Adventures| AND |Pre-Bracket|"
+  },
+  {
+    "name": "Fly Me To Civilization",
+    "category": [
+      "Brian Gremlin"
+    ],
+    "requires": "|Brian Gremlin| AND |Pre-Bracket|"
+  },
+  {
+    "name": "The Galaxy 5000!",
+    "category": [
+      "Chuck E. Cheese"
+    ],
+    "requires": "|Chuck E. Cheese| AND |Pre-Bracket|"
+  },
+  {
+    "name": "DRAW 8 ~ UNO Bracket Track",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Round 1|"
+  },
+  {
+    "name": "March of the Prisoners",
+    "category": [
+      "Pepe",
+      "Isla"
+    ],
+    "requires": "|Pepe| AND |Isla| AND |Round 1|"
+  },
+  {
+    "name": "ARMOR-CLAD DESTROYA",
+    "category": [
+      "Pepe",
+      "Isla"
+    ],
+    "requires": "|Pepe| AND |Isla| AND |Round 1|"
+  },
+  {
+    "name": "Victory! Isla",
+    "category": [
+      "Isla"
+    ],
+    "requires": "|Isla|"
+  },
+  {
+    "name": "Victory! Pepe",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe|"
+  },
+  {
+    "name": "240 Bits, 64 Bits, 8 Bits, THE WRIST GAAAAAME",
+    "category": [
+      "AVGN Adventures",
+      "Chuck E. Cheese"
+    ],
+    "requires": "|AVGN Adventures| AND |Chuck E. Cheese| AND |Round 1|"
+  },
+  {
+    "name": "Family UNFriendly Security Breach",
+    "category": [
+      "AVGN Adventures",
+      "Chuck E. Cheese"
+    ],
+    "requires": "|AVGN Adventures| AND |Chuck E. Cheese| AND |Round 1|"
+  },
+  {
+    "name": "Victory! AVGN Adventures",
+    "category": [
+      "AVGN Adventures"
+    ],
+    "requires": "|AVGN Adventures|"
+  },
+  {
+    "name": "Victory! Chuck E. Cheese",
+    "category": [
+      "Chuck E. Cheese"
+    ],
+    "requires": "|Chuck E. Cheese|"
+  },
+  {
+    "name": "Horsey (UNO Match Groove Mix)",
+    "category": [
+      "Bugsnax Sarah",
+      "Showa Idol"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Showa Idol| AND |Round 1|"
+  },
+  {
+    "name": "Bonito One Night",
+    "category": [
+      "Bugsnax Sarah",
+      "Showa Idol"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Showa Idol| AND |Round 1|"
+  },
+  {
+    "name": "Victory! Bugsnax Sarah",
+    "category": [
+      "Bugsnax Sarah"
+    ],
+    "requires": "|Bugsnax Sarah|"
+  },
+  {
+    "name": "Victory! Showa Idol",
+    "category": [
+      "Showa Idol"
+    ],
+    "requires": "|Showa Idol|"
+  },
+  {
+    "name": "B>E>D>T>I>M>E>S>T>O>R>Y",
+    "category": [
+      "Mr. Kadabra",
+      "Brian Gremlin"
+    ],
+    "requires": "|Mr. Kadabra| AND |Brian Gremlin| AND |Round 1|"
+  },
+  {
+    "name": "Homosexuality With Squidward",
+    "category": [
+      "Mr. Kadabra",
+      "Brian Gremlin"
+    ],
+    "requires": "|Mr. Kadabra| AND |Brian Gremlin| AND |Round 1|"
+  },
+  {
+    "name": "Victory! Mr. Kadabra",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra|"
+  },
+  {
+    "name": "Victory! Brian Gremlin",
+    "category": [
+      "Brian Gremlin"
+    ],
+    "requires": "|Brian Gremlin|"
+  },
+  {
+    "name": "The Cheater",
+    "category": [
+      "Billy Joel Bootlegs"
+    ],
+    "requires": "|Billy Joel Bootlegs| AND |Round 1|"
+  },
+  {
+    "name": "Extra Guac",
+    "category": [
+      "Isla"
+    ],
+    "requires": "|Isla| AND |Round 1|"
+  },
+  {
+    "name": "MAR10? Where's WALUIGI'S Holiday?!",
+    "category": [
+      "Billy Joel Bootlegs"
+    ],
+    "requires": "|Billy Joel Bootlegs| AND |Round 1|"
+  },
+  {
+    "name": "DRAW 4 ~ UNO BRACKET ROUND 2",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Round 2|"
+  },
+  {
+    "name": "Hold Onto Your Skull!",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe| AND |Round 2|"
+  },
+  {
+    "name": "Symphony Of FUCKland",
+    "category": [
+      "AVGN Adventures"
+    ],
+    "requires": "|AVGN Adventures| AND |Round 2|"
+  },
+  {
+    "name": "this is stupid",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe| AND |Round 2|"
+  },
+  {
+    "name": "More Shitty Games, More Problems",
+    "category": [
+      "AVGN Adventures"
+    ],
+    "requires": "|AVGN Adventures| AND |Round 2|"
+  },
+  {
+    "name": "Another Bone in the Graveyard",
+    "category": [
+      "Pepe",
+      "AVGN Adventures"
+    ],
+    "requires": "|Pepe| AND |AVGN Adventures| AND |Round 2|"
+  },
+  {
+    "name": "Famous Last Stand",
+    "category": [
+      "Pepe",
+      "AVGN Adventures"
+    ],
+    "requires": "|Pepe| AND |AVGN Adventures| AND |Round 2|"
+  },
+  {
+    "name": "Sacred Snax Club",
+    "category": [
+      "Bugsnax Sarah"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Round 2|"
+  },
+  {
+    "name": "The Most Mysterious Mashup in the Tournament Community",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Round 2|"
+  },
+  {
+    "name": "(FOUND) The Clock Comes Running Down",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Round 2|"
+  },
+  {
+    "name": "Running To Keep Your Life",
+    "category": [
+      "Bugsnax Sarah",
+      "Brian Gremlin"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Brian Gremlin| AND |Round 2|"
+  },
+  {
+    "name": "Tick! Tick! Tick! Tick!",
+    "category": [
+      "Mr. Kadabra",
+      "Showa Idol"
+    ],
+    "requires": "|Mr. Kadabra| AND |Showa Idol| AND |Round 2|"
+  },
+  {
+    "name": "Fiendish Dark Age",
+    "category": [
+      "Bugsnax Sarah",
+      "Mr. Kadabra"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Mr. Kadabra| AND |Round 2|"
+  },
+  {
+    "name": "Rather Sleep Than Stay in the Rain",
+    "category": [
+      "Bugsnax Sarah",
+      "Mr. Kadabra"
+    ],
+    "requires": "|Bugsnax Sarah| AND |Mr. Kadabra| AND |Round 2|"
+  },
+  {
+    "name": "DRAW- oh, only one showed up... ~ UNO Losers Bracket",
+    "category": [
+      "Chuck E. Cheese",
+      "Tarjeta"
+    ],
+    "requires": "|Chuck E. Cheese| AND |Tarjeta| AND |Round 2|"
+  },
+  {
+    "name": "when the sun comes up",
+    "category": [
+      "Chuck E. Cheese"
+    ],
+    "requires": "|Chuck E. Cheese| AND |Round 2|"
+  },
+  {
+    "name": "sorry i'm late",
+    "category": [
+      "MJ"
+    ],
+    "requires": "|MJ| AND |Round 2|"
+  },
+  {
+    "name": "The Valley's Finest Player",
+    "category": [
+      "Tarjeta"
+    ],
+    "requires": "|Tarjeta| AND |Finals|"
+  },
+  {
+    "name": "Rot In Summer, Never To Rise",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe| AND |Finals|"
+  },
+  {
+    "name": "Is it time?",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Finals|"
+  },
+  {
+    "name": "The Mystery of Uno Attack",
+    "category": [
+      "Isla",
+      "Tarjeta"
+    ],
+    "requires": "|Isla| AND |Tarjeta| AND |Finals|"
+  },
+  {
+    "name": "Disappearing Soul",
+    "category": [
+      "Pepe",
+      "Billy Joel Bootlegs"
+    ],
+    "requires": "|Pepe| AND |Billy Joel Bootlegs| AND |Finals|"
+  },
+  {
+    "name": "Smooth Game",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Finals|"
+  },
+  {
+    "name": "DRAW 2 ~ VS Tarjeta",
+    "category": [
+      "Pepe",
+      "Mr. Kadabra",
+      "Tarjeta"
+    ],
+    "requires": "|Pepe| AND |Mr. Kadabra| AND |Tarjeta| AND |Finals|"
+  },
+  {
+    "name": "WE WEREN'T BORN TO BECOME LOST",
+    "category": [
+      "Pepe",
+      "Mr. Kadabra"
+    ],
+    "requires": "|Pepe| AND |Mr. Kadabra| AND |Finals|"
+  },
+  {
+    "name": "the spells wore off.",
+    "category": [
+      "Pepe",
+      "Mr. Kadabra"
+    ],
+    "requires": "|Pepe| AND |Mr. Kadabra| AND |Finals|"
+  },
+  {
+    "name": "Match Results! Pepe",
+    "category": [
+      "Pepe"
+    ],
+    "requires": "|Pepe|"
+  },
+  {
+    "name": "Match Results! Mr. Kadabra",
+    "category": [
+      "Mr. Kadabra"
+    ],
+    "requires": "|Mr. Kadabra| AND |Finals|"
+  },
+  {
+    "name": "Final Results!",
+    "category": [
+      "Noyu"
+    ],
+    "requires": "|Noyu| AND |Finals|"
+  },
+  {
+    "name": "Hello, Mr. Incognito",
+    "category": [
+      "Guy Incognito"
+    ],
+    "requires": "|Guy Incognito| AND |Finals|"
+  }
+]

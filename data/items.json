@@ -1,0 +1,228 @@
+[
+  {
+    "count": "4",
+    "name": "UNO Card",
+    "category": [
+      "Goal MacGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bugsnax Sarah",
+    "category": [
+      "Character",
+      "Blue Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pepe",
+    "category": [
+      "Character",
+      "Yellow Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Isla",
+    "category": [
+      "Character",
+      "Yellow Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mr. Kadabra",
+    "category": [
+      "Character",
+      "Green Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Showa Idol",
+    "category": [
+      "Character",
+      "Blue Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AVGN Adventures",
+    "category": [
+      "Character",
+      "Red Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Brian Gremlin",
+    "category": [
+      "Character",
+      "Green Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chuck E. Cheese",
+    "category": [
+      "Character",
+      "Red Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tarjeta",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noyu",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Billy Joel Bootlegs",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MJ",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Guy Incognito",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pre-Bracket",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 2",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Finals",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": "20",
+    "name": "Song Skip",
+    "category": [
+      "Song Skips"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Overused UNO Meme",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "A Bugsnak (its very filling)",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "I went to The Black Parade and all they gave me was this lousy Filler",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "The King of Filler XV",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "YOU FOUND LOST FILLER!",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "rare filler from the 80s.",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "Shitty Filler that sucks ass",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "Brian Gremlin's Filler (He has more of these than solos)",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "2",
+    "name": "Filler Topping",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Totally Legit Filler I got off eBay",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Filler that looks suspicously like Homer Simpson",
+    "category": ["Filler"],
+    "Filler": true
+  }
+]
